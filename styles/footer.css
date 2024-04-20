@@ -1,0 +1,21 @@
+.footer {
+    /* background-color: #085195; */
+}
+
+.text {
+    color: #ffffff;
+    max-width: 200px;
+}
+
+.footer_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text-beetwen {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+}
