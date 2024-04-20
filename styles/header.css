@@ -1,0 +1,20 @@
+.header {
+    background-color: transparent;
+}
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_link {
+    display: flex;
+    background-color: #A3D1FC;
+    border-radius: 10px;
+    max-width: 100px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+}

@@ -1,0 +1,23 @@
+.main {
+    padding: 40px 0;
+}
+
+.earth_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.main_about-earth {
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin: auto 0;
+    z-index: 1;
+    position: relative;
+}
+
+.sputnik {
+    z-index: 0;
+    position: absolute;
+}
